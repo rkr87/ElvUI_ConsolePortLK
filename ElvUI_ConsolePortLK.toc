@@ -1,0 +1,19 @@
+## Interface: 30300
+## Title: |cff1784d1E|r|cffe5e3e3lvUI|r |cff1784d1C|r|cffe5e3e3onsolePort|r
+## Notes: Skins the ConsolePortLK-Enhanced action bar so it matches your ElvUI action bar buttons. Adds macro text hiding, ElvUI cooldown text and border size options.
+## Author: Arena.ai
+## Version: 1.1.4
+## X-Website: https://github.com/ElvUI-WotLK/ElvUI
+## X-Category: Plugins
+## RequiredDeps: ElvUI
+## OptionalDeps: ConsolePort, ConsolePortBar
+
+Locales\Load_Locales.xml
+Core\Profile.lua
+Core\Module.lua
+Core\Skin.lua
+Core\API.lua
+Core\Config.lua
+Core\Commands.lua
+Core\Debug.lua
+Core.lua
